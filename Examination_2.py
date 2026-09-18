@@ -6,4 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+intput: อายุ("จำนวนเต็ม")
+age = int(input("อายุ"))
+alif = int(intput("อายุ"))    
+     print: >= 18 ("Not Eligibli")
+alif = int(intput("อายุ"))
+     print: <18 ("Eligibli")
