@@ -7,4 +7,11 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-speed = int(input())
+speed = int(input("ความเร็วรถ"))
+input: ความเร็วรถ("จำนวนเต็ม")
+alie=int(input("ความเร็วรถ < 90"))
+    print: ("Too Fast")
+alie=int(input("ความเร็วรถ >= 60"))
+    print: ("Normal")
+alif:
+    print: ("Fast")
