@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็ม"))
+input: จำนวนเต็ม("n >=0")
+      print = ("Positive")
+input: จำนวนเต็ม("n < 0 ")
+      print = ("Negative")
